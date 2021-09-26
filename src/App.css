@@ -1,5 +1,5 @@
 .app {
-  background: lightslategrey;
+  background: rgb(235, 237, 241);
   padding: 1rem;
   min-height: 100vh;
 }
@@ -8,13 +8,8 @@
   text-align: center;
 }
 
-.white {
-  color: white;
-}
-
 .loading {
   text-align: center;
-  color: white;
 }
 
 .card {
